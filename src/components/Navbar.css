@@ -1,0 +1,8 @@
+.navbar {
+    box-shadow: 0 10px 10px rgba(163, 163, 163, 0.1); /* Subtle shadow */
+ background-color: #b9b9b8;
+
+}
+  .nav-link:hover {
+    color: #d8d6d6 !important; /* Hover color */
+  }
